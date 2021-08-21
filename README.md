@@ -1,0 +1,1 @@
+This is MikeD's first Git project!
